@@ -1,0 +1,14 @@
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReaderTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReaderTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReaderTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReaderTest\bin\Debug\MultiColumnRowReaderTest.dll
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReaderTest\bin\Debug\MultiColumnRowReaderTest.pdb
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReaderTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReaderTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReaderTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReaderTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReaderTest\obj\Debug\MultiColumnRowReaderTest.csprojAssemblyReference.cache
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReaderTest\obj\Debug\MultiColumnRowReaderTest.csproj.CoreCompileInputs.cache
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReaderTest\obj\Debug\MultiColumnRowReaderTest.csproj.CopyComplete
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReaderTest\obj\Debug\MultiColumnRowReaderTest.dll
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReaderTest\obj\Debug\MultiColumnRowReaderTest.pdb
