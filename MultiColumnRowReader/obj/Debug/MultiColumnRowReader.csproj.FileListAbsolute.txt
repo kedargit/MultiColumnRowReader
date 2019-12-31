@@ -1,0 +1,11 @@
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReader\bin\Debug\MultiColumnRowReader.dll
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReader\bin\Debug\MultiColumnRowReader.pdb
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReader\bin\Debug\CsvHelper.dll
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReader\bin\Debug\System.ValueTuple.dll
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReader\bin\Debug\CsvHelper.xml
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReader\bin\Debug\System.ValueTuple.xml
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReader\obj\Debug\MultiColumnRowReader.csprojAssemblyReference.cache
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReader\obj\Debug\MultiColumnRowReader.csproj.CoreCompileInputs.cache
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReader\obj\Debug\MultiColumnRowReader.csproj.CopyComplete
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReader\obj\Debug\MultiColumnRowReader.dll
+C:\Users\rr132093\source\repos\MultiColumnRowReader\MultiColumnRowReader\obj\Debug\MultiColumnRowReader.pdb
