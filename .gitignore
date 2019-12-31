@@ -259,3 +259,15 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/ExtractStdZVersionFromCsvFiles.zip
+/eShopOnContainers
+/CleanArchitecture
+/AspNetCore-WishList1
+/AspNetCore-WishList
+/InternationalTools
+/ExtractStdZVersionFromCsvFiles/ExtractStdZVersionFromCsvFiles
+/AMSNZData Updater
+/EmailClient
+/EmailReaderServiceTest
+/EmailReaderService/EmailReader.cs
+/EmailReaderService/credentials.json
